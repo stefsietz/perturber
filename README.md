@@ -1,6 +1,6 @@
 # Perturber
 
-Code for our EuroVis paper "Interactive Analysis of CNN Robustness"
+Code for our paper "Interactive Analysis of CNN Robustness"
 
 ## Datasets
 
